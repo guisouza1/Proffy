@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { Link } from 'react-router-dom'
 
 import './styles.css'
@@ -45,5 +46,6 @@ function Landing(){
         </div>
     )
 }
+
 
 export default Landing
